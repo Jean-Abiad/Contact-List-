@@ -1,0 +1,13 @@
+.tamaño {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.btn-styles {
+    text-decoration: none;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+}
